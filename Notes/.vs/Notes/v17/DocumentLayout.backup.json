@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ZBurns\\Documents\\GitHub\\Notes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{632DB7DB-0968-4B54-BB67-528A7C9FBB69}|Notes.csproj|c:\\users\\zburns\\documents\\github\\notes\\viewmodels\\notesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632DB7DB-0968-4B54-BB67-528A7C9FBB69}|Notes.csproj|solutionrelative:viewmodels\\notesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{632DB7DB-0968-4B54-BB67-528A7C9FBB69}|Notes.csproj|c:\\users\\zburns\\documents\\github\\notes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{632DB7DB-0968-4B54-BB67-528A7C9FBB69}|Notes.csproj|solutionrelative:models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\ZBurns\\Documents\\GitHub\\Notes\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Models\\Note.cs",
+              "ToolTip": "C:\\Users\\ZBurns\\Documents\\GitHub\\Notes\\Models\\Note.cs",
+              "RelativeToolTip": "Models\\Note.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBkAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:09:13.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotesViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ZBurns\\Documents\\GitHub\\Notes\\ViewModels\\NotesViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\NotesViewModel.cs",
+              "ToolTip": "C:\\Users\\ZBurns\\Documents\\GitHub\\Notes\\ViewModels\\NotesViewModel.cs",
+              "RelativeToolTip": "ViewModels\\NotesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T18:04:16.782Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
